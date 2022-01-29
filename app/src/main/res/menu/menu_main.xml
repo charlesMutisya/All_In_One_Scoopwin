@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.thepredicts.surepredictionsallinone.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/policy"
+        android:title="@string/menu_policy" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about" />
+
+    <item
+        android:id="@+id/terms"
+        android:title="@string/terms"/>
+
+</menu>

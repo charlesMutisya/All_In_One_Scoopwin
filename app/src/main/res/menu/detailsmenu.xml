@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+>
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_share_wht"
+        android:title="@string/menu_share"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/rate"
+        android:title="@string/menu_rate" />
+
+
+    <item
+        android:id="@+id/feedback"
+        android:title="@string/menu_feedback" />
+
+
+
+</menu>
